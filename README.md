@@ -3,7 +3,7 @@
 ## 회차별 학습 내용
 |회차|문제 목록|출제자|
 |------|---|---|
-|1회차|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">Lv2. 타겟 넘버</a><br>Lv3. 정수 삼각형</a> |히데짱|
+|1회차|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165" target='_blank'>Lv2. 타겟 넘버</a><br>Lv3. 정수 삼각형</a> |히데짱|
 |2회차|Lv2. 카펫<br>Lv3. 산 모양 타일링 |박현제|
 
 <br><br>
