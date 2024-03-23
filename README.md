@@ -56,5 +56,5 @@ ex) [1회차] 타겟 넘버 - 박현제<br><br><br>
 [Success] : 풀이 성공<br>
 [Failed] : 풀이 실패 (코드 작성한 것은 올리기)<br><br>
 
-ex) [Success] 정수 삼각형 - 히데짱
+ex) [Success] 정수 삼각형 - 히데짱<br>
 ex) [Failed] 타겟 넘버 - 박건우
