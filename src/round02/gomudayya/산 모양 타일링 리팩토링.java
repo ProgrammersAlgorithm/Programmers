@@ -1,3 +1,5 @@
+// 분배법칙처럼 쪼개서 생각.
+
 class Solution {
     
     static int[][] D;
