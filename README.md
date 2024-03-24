@@ -6,6 +6,7 @@
 |1회차|[Lv2. 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<br>[Lv3. 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|히데짱|
 |2회차|[Lv2. 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br>[Lv3. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |박현제|
 |3회차|[Lv2. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>[Lv2. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|박건우|
+|4회차|[Lv2. 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)<br>[Lv2. 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|히데짱|
 <br><br>
 
 ## 진행 방식
