@@ -13,8 +13,6 @@ class Solution {
                     return false;
                 }
             }
-
-            set.add(now);
         }
         return true;
     }
