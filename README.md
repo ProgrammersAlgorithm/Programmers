@@ -3,8 +3,12 @@
 ## 회차별 학습 내용
 |회차|문제 목록|출제자|
 |------|---|---|
-|1회차|Lv2. 타겟 넘버<br>Lv3. 정수 삼각형 |히데짱|
-
+|1회차|[Lv2. 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<br>[Lv3. 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|히데짱|
+|2회차|[Lv2. 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br>[Lv3. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |박현제|
+|3회차|[Lv2. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>[Lv2. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|박건우|
+|4회차|[Lv2. 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)<br>[Lv2. 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|히데짱|
+|5회차|[Lv2. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<br>[Lv2. 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|박현제|
+|6회차|[Lv2. 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)<br>[Lv3. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|박건우|
 <br><br>
 
 ## 진행 방식
@@ -19,7 +23,7 @@
 
 ## 문제 선정
 해당 회차 담당자가 최소 2 ~ 3문제를 선정하여 README.md에 올립니다.<br>
-순서: 히데짱 → 박현제 → 박건우<br>
+순서: 히데짱 → 박현제 → 박건우<br><br>
 
 
 ### 문제 유형
@@ -31,12 +35,12 @@
 - 구현, 시뮬레이션
 - 스택, 큐, 우선순위 큐, 힙
 
-<br><br><br>
+<br><br>
 
 ## 폴더링 & PR 작성 규칙
 기본적으로 자신의 이름으로 branch를 따서 진행합니다.<br>
 해당 회차 폴더(예: round0x) 아래에 자신의 이름으로 폴더를 생성합니다.<br>
-그 폴더 안에 이번 회차에 풀이한 문제들을 넣고 자신의 branch로 push 한 다음, main 브랜치로 PR을 보냅니다.<br>
+그 폴더 안에 이번 회차에 풀이한 문제들을 넣고 자신의 branch로 push한 다음, main 브랜치로 PR을 보냅니다.<br>
 파일 이름은 다음과 같이 작성해주세요.<br><br>
 
 회차 폴더 이름(패키지명)은 round0x 로 작성해주세요.<br>
@@ -45,11 +49,16 @@ ex) round01
 문제 이름.java<br>
 ex) 타겟_넘버.java<br><br>
 
-PR 제목은 [해당 주차] 문제 이름 - 작성자 로 작성해주세요.<br>
-ex) [1회차] 타겟 넘버 - 박현제<br><br><br>
+PR을 머지할 때 깔끔한 처리를 위해 Squash Merge를 하고,<br>
+PR 제목은 [해당 회차] 문제 이름 - 작성자 로 작성해주세요.<br>
+ex) [1회차] 타겟 넘버 - 박현제<br><br>
 
+PR 내용은 문제 풀이 방법과 푸는데 걸린 시간 등을 기재하기<br><br><br>
 
 ## 커밋 메시지 컨벤션
-[상태] 문제이름 - 풀이한 사람 이름<br>
+[상태] 문제 이름 - 풀이한 사람 이름<br>
 [Success] : 풀이 성공<br>
-[Failed] : 풀이 실패 (코드 작성한 것은 올리기)<br>
+[Failed] : 풀이 실패 (코드 작성한 것은 올리기)<br><br>
+
+ex) [Success] 정수 삼각형 - 히데짱<br>
+ex) [Failed] 타겟 넘버 - 박건우
