@@ -8,7 +8,8 @@
 |3회차|[Lv2. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>[Lv2. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|박건우|
 |4회차|[Lv2. 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)<br>[Lv2. 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|히데짱|
 |5회차|[Lv2. 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)<br>[Lv2. 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|박현제|
-
+|6회차|[Lv2. 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)<br>[Lv3. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|박건우|
+|7회차|[Lv2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br>[Lv3. 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|히데짱|
 <br><br>
 
 ## 진행 방식
