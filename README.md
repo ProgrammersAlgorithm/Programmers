@@ -11,6 +11,8 @@
 |6회차|[Lv2. 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)<br>[Lv3. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|박건우|
 |7회차|[Lv2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br>[Lv3. 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|히데짱|
 |8회차|[Lv2. 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)<br>[Lv2. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|박현제|
+|9회차|[Lv2. 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)<br>[Lv2. 택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|박건우|
+
 <br><br>
 
 ## 진행 방식
