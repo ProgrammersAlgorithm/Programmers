@@ -64,4 +64,3 @@ class Job implements Comparable<Job> {
         return needTime - progressTime == 0;
     }
 }
-
