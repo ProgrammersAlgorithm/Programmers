@@ -15,6 +15,7 @@
 |10회차|[Lv3. N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)<br>[Lv3. 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|히데짱|
 |11회차|[Lv2. 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<br>[Lv3. 순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|박현제|
 |12회차|[Lv2. 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)<br>[Lv3. 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|박건우|
+|13회차|[Lv2. 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)<br>[Lv2. [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|히데짱|
 
 <br><br>
 
