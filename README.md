@@ -17,6 +17,7 @@
 |12회차|[Lv2. 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)<br>[Lv3. 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|박건우|
 |13회차|[Lv2. 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)<br>[Lv2. [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|히데짱|
 |14회차|[Lv2. 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br>[Lv3. 베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|박현제|
+|15회차|[Lv2. 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)<br>[Lv3. 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|박건우|
 
 <br><br>
 
