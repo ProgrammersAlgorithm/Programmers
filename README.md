@@ -11,6 +11,14 @@
 |6회차|[Lv2. 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)<br>[Lv3. 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|박건우|
 |7회차|[Lv2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br>[Lv3. 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|히데짱|
 |8회차|[Lv2. 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)<br>[Lv2. 의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|박현제|
+|9회차|[Lv2. 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)<br>[Lv2. 택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|박건우|
+|10회차|[Lv3. N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)<br>[Lv3. 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|히데짱|
+|11회차|[Lv2. 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)<br>[Lv3. 순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|박현제|
+|12회차|[Lv2. 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)<br>[Lv3. 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|박건우|
+|13회차|[Lv2. 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)<br>[Lv2. [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|히데짱|
+|14회차|[Lv2. 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br>[Lv3. 베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|박현제|
+|15회차|[Lv2. 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)<br>[Lv3. 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|박건우|
+
 <br><br>
 
 ## 진행 방식
