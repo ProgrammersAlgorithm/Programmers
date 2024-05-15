@@ -19,6 +19,7 @@
 |14회차|[Lv2. 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)<br>[Lv3. 베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|박현제|
 |15회차|[Lv2. 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)<br>[Lv3. 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|박건우|
 |16회차|[Lv2. 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)<br>[Lv2. 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|히데짱|
+|17회차|[Lv2. 점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)<br>[Lv2. 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|박현제|
 
 <br><br>
 
