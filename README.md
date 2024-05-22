@@ -21,6 +21,7 @@
 |16회차|[Lv2. 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)<br>[Lv2. 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|히데짱|
 |17회차|[Lv2. 점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)<br>[Lv2. 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|박현제|
 |18회차|[Lv2. 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)<br>[Lv2. 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|박건우|
+|19회차|[Lv2. 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)<br>[Lv2. 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|히데짱|
 
 <br><br>
 
