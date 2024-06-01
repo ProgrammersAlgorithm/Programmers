@@ -23,7 +23,7 @@
 |18회차|[Lv2. 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)<br>[Lv2. 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|박건우|
 |19회차|[Lv2. 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)<br>[Lv2. 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|히데짱|
 |20회차|[Lv2. n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)<br>[Lv2. 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|박현제|
-|21회차|[Lv2. 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)<br>[Lv2. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|박건우|
+|21회차|[Lv2. 연속 부분 수열 합의 개수 (SET, % (Modular), 구현)](https://school.programmers.co.kr/learn/courses/30/lessons/131701)<br>[Lv2. 무인도 여행 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|박건우|
 
 <br><br>
 
