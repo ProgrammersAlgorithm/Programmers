@@ -25,6 +25,7 @@
 |20회차|[Lv2. n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)<br>[Lv2. 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|박현제|
 |21회차|[Lv2. 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)<br>[Lv2. 무인도 여행 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|박건우| 1. SET, % (Modular), 구현 <br> 2. DFS, BFS
 |22회차|[Lv2. 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)<br>[Lv3. 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|히데짱| 1. 스택 <br> 2. DFS/BFS
+|23회차|[Lv2. 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)<br>[Lv3. 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|박현제|
 
 
 <br><br>
