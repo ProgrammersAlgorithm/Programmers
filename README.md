@@ -1,8 +1,8 @@
 # 프로그래머스 알고리즘 스터디
 
 ## 회차별 학습 내용
-|회차|문제 목록|출제자|
-|------|---|---|
+|회차|문제 목록|출제자|유형|
+|------|---|---|---|
 |1회차|[Lv2. 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)<br>[Lv3. 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|히데짱|
 |2회차|[Lv2. 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)<br>[Lv3. 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |박현제|
 |3회차|[Lv2. 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br>[Lv2. 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|박건우|
@@ -23,7 +23,10 @@
 |18회차|[Lv2. 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)<br>[Lv2. 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|박건우|
 |19회차|[Lv2. 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)<br>[Lv2. 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|히데짱|
 |20회차|[Lv2. n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)<br>[Lv2. 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|박현제|
-|21회차|[Lv2. 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)<br>[Lv2. 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|박건우|
+|21회차|[Lv2. 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)<br>[Lv2. 무인도 여행 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|박건우| 1. SET, % (Modular), 구현 <br> 2. DFS, BFS
+|22회차|[Lv2. 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)<br>[Lv3. 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|히데짱| 1. 스택 <br> 2. DFS/BFS
+|23회차|[Lv2. 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)<br>[Lv3. 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|박현제|
+
 
 <br><br>
 
