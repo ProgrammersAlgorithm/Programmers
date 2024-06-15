@@ -26,7 +26,7 @@
 |21회차|[Lv2. 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)<br>[Lv2. 무인도 여행 (DFS, BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|박건우| 1. SET, % (Modular), 구현 <br> 2. DFS, BFS
 |22회차|[Lv2. H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)<br>[Lv3. 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|히데짱| 1. 정렬 <br> 2. DFS/BFS
 |23회차|[Lv2. 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)<br>[Lv3. 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|박현제| 1. DFS, BFS, 격자문제 <br> 2. 그래프, 그리디, 유니온파인드
-|24회차|[Lv2. 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)<br>[Lv3. 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|박건우|
+|24회차|[Lv2. 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)<br>[Lv3. 최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|박건우| 1. 문자열 파싱, 정렬 <br> 2. 수학, 그리디
 
 
 <br><br>
